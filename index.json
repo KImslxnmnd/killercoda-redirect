@@ -1,0 +1,12 @@
+{
+  "title": "Redirect Test",
+  "description": "Redirect to an external URL",
+  "difficulty": "Beginner",
+  "time": "1 minute",
+  "details": {
+    "introPath": "intro.md"
+  },
+  "environment": {
+    "showdashboard": false
+  }
+}
